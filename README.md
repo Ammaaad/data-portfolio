@@ -1,8 +1,13 @@
-📊 Data Portfolio
+📊 Data Portfolio by Ammad
 
-This portfolio showcases multiple data projects using Python, Excel, SQL, and Power BI. Each project is organized in its own folder with data, scripts, outputs, and visualizations.
+Welcome to my data portfolio! This repository showcases my practical work across different data skills including:
 
----
+- 🐍 Python scripting and automation
+- 📊 Excel data analysis and VBA automation
+- 🧮 SQL querying and database reporting
+- 📈 Power BI dashboards and visualizations
+
+
 
 🧩 Projects
 
