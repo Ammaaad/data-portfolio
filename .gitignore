@@ -14,9 +14,7 @@ Thumbs.db
 # Ignore Visual Studio Code project files
 .vscode/
 
-# Ignore Excel and CSV files (optional if not needed in repo)
-*.xlsx
-*.csv
+
 
 # Ignore environment files (if you use any)
 .env
