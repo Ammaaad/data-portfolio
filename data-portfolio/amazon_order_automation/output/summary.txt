@@ -1,9 +1,0 @@
-Total Amount Spent: $85.47
-
-Top 5 Categories by Spend:
-Category
-Electronics        50.47
-Accessories        25.00
-Office Supplies    10.00
-
-Total Quantity Ordered: 12
